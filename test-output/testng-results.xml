@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-01-16T23:07:01Z" name="Default suite" finished-at="2019-01-16T23:07:25Z" duration-ms="24281">
+    <groups>
+    </groups>
+    <test started-at="2019-01-16T23:07:01Z" name="Default test" finished-at="2019-01-16T23:07:25Z" duration-ms="24281">
+      <class name="W2A.w2aTestSiteDataTable">
+        <test-method signature="webTables()[pri:0, instance:W2A.w2aTestSiteDataTable@1bdaa23d]" started-at="2019-01-16T23:07:01Z" name="webTables" finished-at="2019-01-16T23:07:25Z" duration-ms="24241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webTables -->
+      </class> <!-- W2A.w2aTestSiteDataTable -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
