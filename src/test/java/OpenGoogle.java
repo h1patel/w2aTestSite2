@@ -14,8 +14,8 @@ public class OpenGoogle {
 
 	@Test
 	public void Test() throws InterruptedException {
-		driver.get("http://www.google.com");
-		// undo the change
+		driver.get("http://www.ymail.com");
+		// second change
 
 		Thread.sleep(5000);
 		
